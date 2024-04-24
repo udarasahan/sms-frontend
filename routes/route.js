@@ -94,4 +94,5 @@ router.delete("/Subjects/:id", deleteSubjects);
 router.delete("/SubjectsClass/:id", deleteSubjectsByClass);
 
 // Export the router for use in other files
+//asdf
 module.exports = router;
